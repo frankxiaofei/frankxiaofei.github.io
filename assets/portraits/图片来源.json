@@ -1,0 +1,29 @@
+{
+  "说明": "《长安三万里》动画艺术形象，不代表历史人物真实肖像。图像版权归原权利人，保留来源与原图。",
+  "人物": {
+    "李白": {
+      "file": "libai.jpg",
+      "source": "https://www.sohu.com/a/695664319_162522",
+      "label": "《长安三万里》李白动画形象",
+      "position": "58% 40%"
+    },
+    "杜甫": {
+      "file": "dufu.jpg",
+      "source": "https://yule.bandao.cn/a/1686402869309444.html",
+      "label": "《长安三万里》青年杜甫动画形象",
+      "position": "40% 30%"
+    },
+    "高适": {
+      "file": "gaoshi.jpg",
+      "source": "https://m.thepaper.cn/newsDetail_forward_24456675",
+      "label": "《长安三万里》高适动画形象",
+      "position": "50% 25%"
+    },
+    "岑参": {
+      "file": "censhen-group.jpg",
+      "source": "https://www.qdsnqwhg.cn/html/ysxs/2023/0726/2636.html",
+      "label": "《长安三万里》岑参动画形象（带名群像）",
+      "position": "50% 50%"
+    }
+  }
+}
